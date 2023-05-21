@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/IT-liguiyang/common-utils/issues"
   },
-  "homepage": "https://github.com/IT-liguiyang/common-utils#readme"
+  "homepage": "https://github.com/IT-liguiyang/common-utils#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.1.1",
+    "eslint-config-airbnb": "^17.1.1",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
 }
