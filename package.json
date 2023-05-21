@@ -1,0 +1,22 @@
+{
+  "name": "common-utils",
+  "version": "1.0.0",
+  "description": "常用工具函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT-liguiyang/common-utils.git"
+  },
+  "keywords": [
+    "common-utils"
+  ],
+  "author": "liguiyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT-liguiyang/common-utils/issues"
+  },
+  "homepage": "https://github.com/IT-liguiyang/common-utils#readme"
+}
