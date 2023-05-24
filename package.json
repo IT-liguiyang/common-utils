@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "常用工具函数",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "node src/index"
   },
   "repository": {
     "type": "git",
